@@ -3,7 +3,7 @@ A sudoku assistant that helps people to solve simple 9x9 sudoku puzzles\
 Project based on COMP10002 2021 semester 2 Assignment 2
 
 ## Stage 1 - Reading and Printing 
-read the input sudoku, print out the formatted sudoku, and the number of unknown cells
+Read the input puzzle, print out the formatted sudoku, and the number of unknown cells
 
 ## Stage 2 - Grid Checking 
 Checks the input grid for mistakes, to ensure that none of the 27 sets in the supplied puzzle have duplicate elements.\
